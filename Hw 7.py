@@ -71,4 +71,3 @@ search_products("мыло")
 
 conn.close()
 
-print("База данных hw.db создана, таблица products добавлена, функции протестированы.")
